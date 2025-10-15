@@ -31,3 +31,8 @@ git commit -m "msg" - crate checkpoint
 git log : give information about what is happening  
 git diff : give difference bet 2 commits  
 
+* Github is the central system for VC
+* Basic Github commands  
+git remote add origin <Repo_link>  
+git push -u origin main  {u means Upstream}  
+
