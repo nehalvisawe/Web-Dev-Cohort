@@ -22,5 +22,12 @@ TCP is reliable and slow (becoz of 3 way Handshaking) while UDP is fast but not 
 * there are total 13 root servers all over world  
 
 @ Date: 15 oct 2025
-VCS-(Version Control System) --> tracks history of codebase
-git init -start VCS in this project
+VCS-(Version Control System) --> tracks history of codebase  
+* General Purpose CLI cmd:  
+git init -start VCS in this project  
+git add -start tracking files in folder  
+git commit -m "msg" - crate checkpoint  
+* Debugging Purpose:   
+git log : give information about what is happening  
+git diff : give difference bet 2 commits  
+
