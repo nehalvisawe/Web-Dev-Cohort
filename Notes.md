@@ -19,5 +19,8 @@ Network Layer[Routing, IP Addressing]
 Data Link Layer[frames]   
 Physical Layer[bits]   
 TCP is reliable and slow (becoz of 3 way Handshaking) while UDP is fast but not reliable
+* there are total 13 root servers all over world  
 
-* there are total 13 root servers all over world
+@ Date: 15 oct 2025
+VCS-(Version Control System) --> tracks history of codebase
+git init -start VCS in this project
