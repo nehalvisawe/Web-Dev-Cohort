@@ -1,4 +1,4 @@
-# Web-Dev-Cohort-Notes
+# Cohort-Notes
 @ Date: 13 oct 2025  
 Basic Jargons of web  
 [ HTTP, Stateless Protocol, Session, HTTP Headers, HTTP/2, TCP, FTP, IP, URl, DNS, Payload, Cache, etc  ]  
